@@ -242,11 +242,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\AnimController.cs" />
-    <Compile Include="Assets\Scripts\Crosshair.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\InputController.cs" />
-    <Compile Include="Assets\Scripts\MoveController.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />

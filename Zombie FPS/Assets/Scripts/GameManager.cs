@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameManager {
 
-    public event System.Action<Player> OnLocalPlayerJoined;
+    
 
     private GameObject gameObject;
 
@@ -36,22 +36,7 @@ public class GameManager {
     }
 
 
-    private Player m_LocalPlayer;
-    public Player LocalPlayer
-    {
-        get {
-            return m_LocalPlayer;
-        }
-        set {
-            m_LocalPlayer = value;
-            if (OnLocalPlayerJoined != null)
-            {
-                OnLocalPlayerJoined(m_LocalPlayer);
-            }
-
-        }
-
-    }
+    
     private int m_Hitpoints;
     public int Hitpoint;
 
