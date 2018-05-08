@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie FPS.Plugins", "Zombie FPS.Plugins.csproj", "{349B4E87-F9F4-DBF2-9F68-8F6D83FE3975}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie FPS", "Zombie FPS.csproj", "{5FBBAC63-430E-022B-BA97-E929CB09EAA3}"
